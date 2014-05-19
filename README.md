@@ -1,0 +1,4 @@
+QtChat
+======
+
+A python chatroom 
